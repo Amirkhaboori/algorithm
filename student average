@@ -1,0 +1,8 @@
+let student1 = "Amir";
+let grade1 = 100;
+let grade2 = 55;
+let grade3 = 65;
+let grade4 = 80;
+let average;
+average = (grade1 + grade2 + grade3 + grade4) /4;
+console.log("The overall grade of" + student1 + " is " + average);
