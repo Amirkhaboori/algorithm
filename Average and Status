@@ -1,0 +1,15 @@
+// input
+let student1 = "Amir";
+let grade1 = 90;
+let grade2 = 80;
+// process
+let average;
+let status;
+average = (grade1 + grade2) /2;
+// output
+console.log("The overall grade of " + student1 + " is " + average);
+if(average >= 60){
+status= "Approved";
+}else{
+status = "Reproved";}
+alert(student1 + " is " + status);
