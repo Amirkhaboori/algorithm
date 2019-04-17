@@ -1,0 +1,10 @@
+// Input
+let number;
+let sum = 0;
+// Process 
+for(number=0;number<101;number+=2){
+sum+=number;
+// Output
+console.log(number);
+}
+alert("Total is " + sum);
