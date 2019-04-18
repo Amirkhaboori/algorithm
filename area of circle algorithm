@@ -1,0 +1,8 @@
+INPUT
+Pi/𝜋 = 3.14
+R=input;
+A=?;
+process
+A=πr2
+OUTPUT
+PRINT A
