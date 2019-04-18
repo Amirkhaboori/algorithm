@@ -1,0 +1,9 @@
+input
+\\ find prime number
+process:
+if(number<2);
+print: it is not prime number
+if(number=2);
+print: it is smallest prime number
+if(number>2)
+reminder
