@@ -1,0 +1,8 @@
+INPUT
+l= input;
+w=input;
+A=?;
+process
+A=wl
+OUTPUT
+PRINT A
